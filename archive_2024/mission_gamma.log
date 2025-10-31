@@ -1,0 +1,16 @@
+MISSION: GAMMA
+DATE: 2024-02-11
+STATUS: SUCCESS
+AGENT: SHADOW_7
+
+Objective: Recover server-side keys from abandoned relay
+Location: Relay node R-12 (decommissioned)
+Method: Cold boot + forensic image
+
+Result: Keys extracted. Partial metadata scrubbed by anti-forensic routines.
+Recovered artifacts:
+- 2x keyfiles (AES-256 wrapped)
+- 1x forensic image (dd)
+- 1x script fragment (obfuscated)
+
+All artifacts forwarded to cryptanalysis.
