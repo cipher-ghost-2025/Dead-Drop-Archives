@@ -4,8 +4,8 @@
 
 ### Archive Status
 
-- 2023: Partially recovered
-- 2024: Recovered
+- 2023: Recovered
+- 2024: Partially recovered
 - 2025: Active investigation
 - Legacy systems: Offline
 
